@@ -1,6 +1,6 @@
 <div align="center">
-<img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" align="center" style="width: 200px height:200px" />
-</div>  
+<h1> mohit thakre</h1>
+</div>  <br> <br> <br>
 # 💫 About Me:
 🔭 I’m MOHIT THAKRE  full-stack web developer, specializing in both frontend and backend technologies.<br><br>👯 I’m looking to collaborate on exciting web development projects that challenge and expand my skill set. If you have any interesting ideas or need assistance with your project, feel free to reach out!<br><br>🌱 I’m currently learning about the latest advancements in frontend frameworks such as React.js and exploring serverless architecture for backend development. Continuous learning is key to staying relevant in the ever-evolving field of web development.<br><br>💬 Ask me about web development best practices, database design, RESTful API implementation, or anything related to creating robust and scalable web applications.<br><br>⚡ Fun fact: I enjoy experimenting with new programming languages and frameworks in my free time. Learning unconventional technologies often provides fresh perspectives and creative solutions to everyday development challenges.
 
